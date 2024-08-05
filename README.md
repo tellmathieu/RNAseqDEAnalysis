@@ -99,23 +99,23 @@ Additionally, you need 3 more variables to run this Rscript:
 Fill in the items with `{}` brackets.
 ```
 Rscript deseq.R \
-			{merged_gene_counts.csv} \
-			{sampleMetaData.csv} \
-			{alpha} \
-			{resultsPath} \
-			{treatmentComparisons.csv} \
-			{ctrl}
+	{merged_gene_counts.csv} \
+	{sampleMetaData.csv} \
+	{alpha} \
+	{resultsPath} \
+	{treatmentComparisons.csv} \
+	{ctrl}
 ```
 
 Here is an example of an actual command:
 ```
 Rscript deseq.R \
-			merged_gene_counts.csv \
-			sampleMetaData.csv \
-			0.05 \
-			home/tmathieu/RNAseqDEAnalysis/results \
-			treatmentComparisons.csv \
-			Col0_CL
+	example/merged_gene_counts.csv \
+	example/sampleMetaData.csv \
+	0.05 \
+	home/tmathieu/RNAseqDEAnalysis/results \
+	example/treatmentComparisons.csv \
+	Col0_CL
 ```
 
 
