@@ -1,0 +1,13 @@
+sample,treatment,replicate,DE
+Col0_AWF_NT_R4,Col0_AWF_NT,R4,Col0_AWF_NT
+Col0_AWF_NT_R5,Col0_AWF_NT,R5,Col0_AWF_NT
+Col0_AWF_NT_R6,Col0_AWF_NT,R6,Col0_AWF_NT
+Col0_CL_R1,Col0_CL,R1,Col0_CL
+Col0_CL_R2,Col0_CL,R2,Col0_CL
+Col0_CL_R3,Col0_CL,R3,Col0_CL
+Col0_CL_ribo_R1,Col0_CL_ribo,R1,Col0_CL_ribo
+Col0_CL_ribo_R2,Col0_CL_ribo,R2,Col0_CL_ribo
+Col0_CL_ribo_R3,Col0_CL_ribo,R3,Col0_CL_ribo
+Col0_LSW_R1,Col0_LSW,R1,Col0_LSW
+Col0_LSW_R2,Col0_LSW,R2,Col0_LSW
+Col0_LSW_R3,Col0_LSW,R3,Col0_LSW
