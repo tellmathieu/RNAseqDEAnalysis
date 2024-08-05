@@ -113,7 +113,7 @@ Rscript deseq.R \
 	example/merged_gene_count.csv \
 	example/sampleMetaData.csv \
 	0.05 \
-	home/tmathieu/RNAseqDEAnalysis/results \
+	/home/tmathieu/RNAseqDEAnalysis/results \
 	example/treatmentComparisons.csv \
 	Col0_CL
 ```
