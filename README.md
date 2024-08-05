@@ -110,7 +110,7 @@ Rscript deseq.R \
 Here is an example of an actual command:
 ```
 Rscript deseq.R \
-	example/merged_gene_counts.csv \
+	example/merged_gene_count.csv \
 	example/sampleMetaData.csv \
 	0.05 \
 	home/tmathieu/RNAseqDEAnalysis/results \
