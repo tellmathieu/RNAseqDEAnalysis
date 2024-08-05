@@ -7,7 +7,7 @@
 #BiocManager::install("ggrepel")
 #install.packages("UpSetR")
 require(devtools) || install.packages("devtools",quietly = T)
-require(MoMAColors) || devtools::install_github("BlakeRMills/MoMAColors",quietly = T)
+require(MoMAColors) || devtools::install_github("BlakeRMills/MoMAColors")
 
 
 #Loading the libraries (required for this analysis)
